@@ -2,7 +2,9 @@ Rencana Konten WPU:
     - JavaScript
         - ES 6
         - JavaScript Framework
-        - Dasar Struktur Data
+            ^ Angular
+            ^ React
     - PHP Framework
+        ^ Laravel
     - Wawancara 
     - Vlog
