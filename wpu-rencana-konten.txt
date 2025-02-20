@@ -3,6 +3,7 @@ Rencana Konten WPU:
         - ES 6
         - JavaScript Framework
             ^ Vue
+            ^ React
         - Dasar Struktur Data
     - PHP Framework
         ^ Laravel
